@@ -223,7 +223,8 @@ DoW (exit = *off);
     fld7 = *off;
     fld8 = *off;
     fld9 = *off;
-
+    
+    turncounter = 1;
   ENDIF;
 EndDo;
 
